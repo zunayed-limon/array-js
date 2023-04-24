@@ -1,0 +1,1 @@
+*** I described about JavaScript Array's functionalities here which a developer should know.
