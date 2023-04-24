@@ -1,1 +1,1 @@
-*** I described about JavaScript Array's functionalities here which a developer should know.
+### I described here about **JavaScript** Array's functionalities, which a developer should know.
